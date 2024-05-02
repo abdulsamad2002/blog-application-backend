@@ -2,7 +2,7 @@
 This repository contains the backend for a blog application. 
 #### Technology stack: NodeJS, ExpressJS, MongoDB
 
-### Routes and Functionalities
+### API Routes and Functionalities
 
 #### 1. Create a Comment
 
