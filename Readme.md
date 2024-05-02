@@ -1,5 +1,5 @@
 # Blog Application Backend
-This repository contains the backend for a blog application, providing RESTful API endpoints for managing posts and comments.
+This repository contains the backend for a blog application.
 
 ### Routes and Functionalities
 
