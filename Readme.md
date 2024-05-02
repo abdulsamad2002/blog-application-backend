@@ -1,5 +1,6 @@
 # Blog Application Backend
-This repository contains the backend for a blog application.
+This repository contains the backend for a blog application. 
+#### Technology stack: NodeJS, ExpressJS, MongoDB
 
 ### Routes and Functionalities
 
